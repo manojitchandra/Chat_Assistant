@@ -3,8 +3,8 @@ langchain
 langchain-community
 langchain-core
 langchain-huggingface
+langchain-text-splitters
 langchain-groq
 faiss-cpu
 sentence-transformers
 python-dotenv
-torchdivision
