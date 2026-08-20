@@ -9,3 +9,4 @@ faiss-cpu
 sentence-transformers
 python-dotenv
 torchvision
+beautifulsoup4
